@@ -1,2 +1,2 @@
-# data_structure_for_c-
+# data_structure
 data structure for c++
